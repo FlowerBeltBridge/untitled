@@ -17,5 +17,6 @@ public class Try {
             System.out.println(arr[i]);
         }
         System.out.println("first commit");
+        System.out.printf("Second commit");
     }
 }
