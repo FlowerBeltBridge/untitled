@@ -19,5 +19,6 @@ public class Try {
         System.out.println("first commit");
         System.out.printf("Second commit");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
